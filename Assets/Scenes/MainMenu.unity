@@ -2061,21 +2061,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 397203519}
-        m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
-        m_MethodName: Play
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 1282179202}
-        m_TargetAssemblyTypeName: MainMenuController, Assembly-CSharp
-        m_MethodName: OpenEditor
+      - m_Target: {fileID: 562734724}
+        m_TargetAssemblyTypeName: MenuButtons, Assembly-CSharp
+        m_MethodName: CardCreator
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2132,10 +2120,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1282179197}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6e313e96cab2d6e43aa96146459cd2de, type: 3}
+  m_Script: {fileID: 11500000, guid: 8aebcb1147ab28643a444d87e80508f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  editorPanel: {fileID: 443980642}
+  loading: {fileID: 0}
 --- !u!114 &1291728776 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 8753412753126206216, guid: 8b1de2dc433e66346bf73f77ad3a507f, type: 3}

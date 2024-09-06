@@ -11,6 +11,7 @@ public class MenuButtons : MonoBehaviour
         SceneManager.LoadScene("Game");
     
     public void MainMenu() => SceneManager.LoadScene("MainMenu");
+    public void CardCreator() => SceneManager.LoadScene("CardCreator");
     public void QuitGame() => Application.Quit();
     public void CardCollection()
     {
