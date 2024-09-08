@@ -12,7 +12,7 @@ public class UnitCardInfo : CardInfo
     public AttackType[] AttackTypes;
 }
 
-public enum UnitType { Silver, Golden }
+public enum UnitType { Silver, Golden, Null }
 
 public enum AttackType
 {

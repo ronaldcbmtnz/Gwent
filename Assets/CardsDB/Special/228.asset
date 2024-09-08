@@ -15,7 +15,7 @@ MonoBehaviour:
   Faction: Neutral
   FactionLogo: {fileID: 21300000, guid: 18c0d2d90c2dc6c4abcd3f6de81af0a9, type: 3}
   Name: 228
-  effect: 7
+  effect: 11
   Artwork: {fileID: 21300000, guid: 599ec8392a856ce41a8cbc1965a57ad4, type: 3}
   Description: 
   SpecialType: 5

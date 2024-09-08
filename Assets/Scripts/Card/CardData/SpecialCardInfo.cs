@@ -11,6 +11,6 @@ public class SpecialCardInfo : CardInfo
 }
 public enum SpecialType
 {
-    Buff, Rain, Fog, Blizzard, Decoy, Clearing
+    Buff, Rain, Fog, Blizzard, Decoy, Clearing, Null
 }
 
